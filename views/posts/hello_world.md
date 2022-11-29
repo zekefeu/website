@@ -9,7 +9,7 @@ hidden: false
 
 Hi, I'm Zeke! I'm a french software developer specializing in Node.js.
 
-I've made this blog to talk about my *many* ongoing projects, as well as programming-related stuff, gaming, DIY and more generally, what's on my mind, especially when it wouldn't belong in a more compact [Mastodon](/about) post.
+I've made this blog to talk about my *many* ongoing projects, as well as programming-related stuff, gaming, DIY and more generally, what's on my mind, especially when it wouldn't belong in a more compact [Mastodon](/about/) post.
 
 I'm 17 years old and I have 4 years of experience with Node.js, as well as 2 years in TypeScript and Linux. I'll post my resume here at some point.
 
