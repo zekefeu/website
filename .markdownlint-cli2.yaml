@@ -1,0 +1,9 @@
+config:
+  line-length: false
+
+fix: true
+
+globs:
+  - "**/*.md"
+ignores:
+  - "node_modules"

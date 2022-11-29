@@ -1,0 +1,6 @@
+Preferred-Languages: en, fr
+Contact: mailto:zekefeu@proton.me
+Encryption-Key: 0x67D8533508C2BEF9B0F38D2BCA4D612F3845CCC7
+Encryption: https://zekefeu.github.io/static/assets/publickey.asc
+Canonical: https://zekefeu.github.io/.well-known/security.txt
+Expires: 2023-11-29T08:00:00.000Z

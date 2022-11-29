@@ -1,0 +1,17 @@
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>{{ title }} | Zeke Feunier</title>
+	
+	<meta name="description" content="{{ description if description else "No description provided." }}">
+	<meta name="keywords" content="{{ tags | enumerate }}">
+	<meta name="author" content="zekefeu, zekefeu@proton.me">
+
+	{# TODO: update csp later as, for now, I don't need it.
+	<meta http-equiv="Content-Security-Policy"
+		content="default-src 'self'; img-src https://*; child-src 'none';" /> #}
+	
+	<link rel="stylesheet" href="/static/css/style.css">
+	<link rel="icon" type="image/x-icon" href="/static/imgs/favicon/favicon.png">
+</head>

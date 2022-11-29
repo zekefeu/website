@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Preferred-Languages: en, fr
+Contact: mailto:zekefeu@proton.me
+Encryption-Key: 0x67D8533508C2BEF9B0F38D2BCA4D612F3845CCC7
+Encryption: https://zekefeu.github.io/static/assets/publickey.asc
+Canonical: https://zekefeu.github.io/.well-known/security.txt
+Expires: 2023-11-29T08:00:00.000Z
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRn2FM1CMK++bDzjSvKTWEvOEXMxwUCY4RYjAAKCRDKTWEvOEXM
+xyw+AQDdLOZqTElCEDrq4dAEm96IuZip6fxVxcJVP3Hfim5KQQEAqaHkF41ku61L
+/Rc3RHtCZcnEl9NlbPodPsz9A55Q+g4=
+=TrwK
+-----END PGP SIGNATURE-----

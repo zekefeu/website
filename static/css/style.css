@@ -1,0 +1,93 @@
+body {
+	margin: 0;
+	background-color: #222;
+	color: white;
+	font-family: monospace, sans-serif;
+	font-size: large;
+}
+
+header {
+	display: flex;
+	justify-content: center;
+}
+
+.header-message {
+	background-color: red;
+}
+
+header > .button {
+	margin: 8px;
+	font-size: larger;
+}
+
+header > .button:hover {
+	background-color: white;
+	color: black;
+}
+
+header > .button > a:hover {
+	color: black;
+}
+
+footer {
+	display: flex;
+	flex-direction: column;
+	padding: 5vh 10vw;
+}
+
+.document {
+	padding: 0 5vw;
+	min-height: 100vh;
+}
+
+a {
+	color: orange;
+}
+
+.reset-link > a {
+	color: white;
+	text-decoration: none;
+}
+
+h1::before {
+	content: "# ";
+}
+
+h2::before {
+	content: "## ";
+}
+
+h3::before {
+	content: "### ";
+}
+
+h4::before {
+	content: "#### ";
+}
+
+code,
+pre {
+	background-color: #111;
+}
+
+blockquote {
+	border-left: 3px solid grey;
+	margin-left: 0;
+	padding-left: 5vw;
+}
+
+@media screen and (min-width: 480px) {
+	.document {
+		padding: 0 15vw;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	.document {
+		padding: 0 20vw;
+	}
+
+	blockquote {
+		padding-left: 2vw;
+	}
+}

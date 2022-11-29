@@ -1,0 +1,28 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "",
+  "license": "CC-BY-NC-SA-4.0",
+  "author": {
+    "email": "zekefeu@proton.me",
+    "name": "Zeke Feunier",
+    "url": "https://github.com/zekefeu"
+  },
+  "scripts": {
+    "build": "npm run lint && NODE_ENV=production npx @11ty/eleventy",
+    "dev": "npx @11ty/eleventy --serve",
+    "lint": "prettier -w . && markdownlint-cli2",
+    "sign-security": "cd static/assets/.well-known && gpg2 --clearsign security.raw.txt && mv security.raw.txt.asc security.txt"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "clean-css": "^5.3.1",
+    "fs-readdir-recursive": "^1.1.0",
+    "html-minifier": "^4.0.0",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.5.1",
+    "prettier": "^2.8.0"
+  }
+}
