@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/zekefeu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://zekefeu.github.io
+  * I am zekefeu (https://keybase.io/zekefeu) on keybase.
+  * I have a public key with fingerprint 67D8 5335 08C2 BEF9 B0F3  8D2B CA4D 612F 3845 CCC7
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01165a103b72111fbb85f80d1efb715ad76aba7d967b34c013064154e420af3f605d0a",
+      "fingerprint": "67d8533508c2bef9b0f38d2bca4d612f3845ccc7",
+      "host": "keybase.io",
+      "key_id": "ca4d612f3845ccc7",
+      "kid": "01165a103b72111fbb85f80d1efb715ad76aba7d967b34c013064154e420af3f605d0a",
+      "uid": "a2f29ebce0d01c69793383662bc0a419",
+      "username": "zekefeu"
+    },
+    "service": {
+      "hostname": "zekefeu.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1671796334,
+  "expire_in": 157680000,
+  "prev": "a1c57c66c3c2b7b0a304347b852cf9aa8eaa2c22ddac49e16e9104877f59bd2f",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yME9AnicrVI9i1QxFH3jquiAuNVWgpBSht18veS96be01ELRIR83M3HW98b3Mbvr
+Mp2l2gjbWG8pOIKNoKIIgqMg/gILQUEQ0c7KZNRCsDRNuDfnnJxzkxcnVpLu2quz
+aiPbfP2ys3h2t03MwX6xh3Rpd1F/D41hucGWhboZjL1FfYQJEakimGlJCSFO6yx1
+GbYEnJYkVVYKpZW0uZCacYMJw4KTlAOnWDnmBE4tVqiHnC+GUE0qXzRBVkibpYyl
+ODNUg8s1diyzVBvFrSA0FDw1xshAHJV1ZARzWtWw7svQC8Vgae8f+P/su13KKepo
+DtoAtpgYkcucsYwJERxjxUkegTVUhboKAX0dxuCgRbMeCs2pNxDnGoP8DVgf+mbU
+6l+ZJlXZlKbcCsejppnU/UhvdicRvw168FtpoH1hwywDYwpV7csC9UlAmsZHaSIk
+kblgjPcQ7Ex8BQMfEakUGQ4r3gPTmIiYVBohDAsvIDVWDHPGZRgTNS5XKgOlqKHU
+WmV4DkRATjDPpHRpri11KGa7VpSoz4JNNQyStR8WqmkrQLPnlw8na93k6JFD8Ysl
+3eOrfz7e04NO8mZjf9jeeH/h4e0PX+W70yv3Py3mHx+vzuZ0e/PH/NylTnJy0XuS
+nErQl5tnvt25Z9Db6YPP3y8WJVaPbi3OXzn2E7kH49o=
+=RW6c
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zekefeu
+
+==================================================================
